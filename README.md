@@ -1,2 +1,3 @@
 # fintechbc
-fintech bootcamp
+fintech boot camp
+for fintech boot camp
